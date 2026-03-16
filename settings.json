@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "saitokirito.aternos.me",
-    "port": 60774,
+    "ip": "11-EIMSERVER.aternos.me",
+    "port": 49520,
     "version": "",
     "try-creative": false
   },
